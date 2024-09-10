@@ -1,0 +1,64 @@
+**AZURE_notes
+**
+AZURE : Microsoft----> To Data store it has one service
+AWS : amazon web services --->S3 ,simple storage services
+GCP : google cloud platform ---> Buckets
+  --------------------> cloud exposer
+
+- Register Model
+- deploye Model
+- track the model
+- version the model
+- inference the model
+
+5/9/2024
+#Session1
+
+# Azure 100 certification
+# Azure 900 cirtification
+create account :manikanta2130@gmail.com  
+- azure blob storage with python
+1. subscription [Free Trail for one month by debit card(visa/Master)]
+2. Resource group --->create one resource Example_1
+3. Storage account create [store the data(excel/audio/video/images)] 
+   - veerasession
+	-overview
+	-Data Storage -->Containers(to store the data blob)--->veeracontainer1-->upload blob(uploaded image/xl/ipynb)-->Change the access level(overview-->Allow Blob anonymous access
+-Enabled)--->Container (anonymous read access for containers and blobs)-->Download the file by copying url
+   - maniaisession                                                         
+4.For file reading and accessing we give Account url and creditionals(storage account-->Security+Networking-->Access keys-->copy key and give it)
+
+-- omkar sir Git Hub link -->download the files 
+
+# Session2
+All above tasks we done using UI
+1.by using portal UI
+2.by using any programming lang
+3.Azure CLI
+
+How to do with python code
+we will use Azure AI services: Document intelligence
+
+- We downloaded python code from GitHub
+- we extract zip file
+- we uploaded python file in google colab
+*container will created in storage account so we need storage account details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
